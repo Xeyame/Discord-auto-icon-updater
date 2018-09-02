@@ -1,0 +1,6 @@
+{
+  "prefix" : "!DAIU",
+  "icondir" : "./icons",
+  "updateCron" : "*/30 * * * *",
+  "guildID" : "123456"
+}

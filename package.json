@@ -1,0 +1,15 @@
+{
+  "name": "discordautoiconupdater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xeyame",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "node-cron": "^1.2.1"
+  }
+}
